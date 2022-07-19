@@ -9,8 +9,7 @@
 
 ------------
 ### 🐣
-[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=good3234)](https://solved.ac/good3234) 
-
+[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=good3234)](https://solved.ac/good3234)<br>
 <img src="http://mazandi.herokuapp.com/api?handle=good3234&theme=warm"/>
 </div>
 <!--
