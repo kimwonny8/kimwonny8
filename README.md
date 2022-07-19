@@ -1,4 +1,5 @@
 ### Hi there 👋
+![kimwonny8's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimwonny8&show_icons=true&theme=dark) 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=good3234)](https://solved.ac/good3234)
 
 <!--
