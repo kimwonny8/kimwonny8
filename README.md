@@ -10,7 +10,7 @@
 ------------
 ### 🐣
 
-[![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=good3234)](https://solved.ac/good3234)<br>
+[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=good3234)](https://solved.ac/good3234)<br>
 <img src="http://mazandi.herokuapp.com/api?handle=good3234&theme=warm"/>
 </div>
 <!--
@@ -18,7 +18,7 @@
 
 Here are some ideas to get you started:
 
-[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=good3234)](https://solved.ac/good3234)
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
