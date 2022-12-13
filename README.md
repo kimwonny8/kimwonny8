@@ -11,7 +11,6 @@
 ### 🐣
 
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=good3234)](https://solved.ac/good3234)<br>
-<img src="http://mazandi.herokuapp.com/api?handle=good3234&theme=warm"/>
 </div>
 <!--
 **kimwonny8/kimwonny8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
