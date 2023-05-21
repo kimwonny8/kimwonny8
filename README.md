@@ -12,7 +12,7 @@
 ------------
 ### 🐣
 
-- 꾸준히 성장하는 개발자가 되고 싶습니다.
+꾸준히 성장하는 개발자가 되고 싶습니다😊
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimwonny8)](https://github.com/kimwonny8/github-readme-stats)
  <br>
