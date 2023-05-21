@@ -6,8 +6,8 @@
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
 <img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white">
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%#6DB33F.svg?style=flat-square&logo=springboot&logoColor=white)
-![AWS](https://img.shields.io/badge/AmazonAWS-#232F3E.svg?style=flat-square&logo=AmazonAWS&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-6DB33F.svg?style=flat-square&logo=springboot&logoColor=white)
+![AWS](https://img.shields.io/badge/AmazonAWS-232F3E.svg?style=flat-square&logo=AmazonAWS&logoColor=white)
 
 ------------
 ### 🐣
