@@ -1,7 +1,7 @@
 <div align=center>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=KimJungWon&fontSize=80" />
 
-기초 탄탄! 꾸준히 성장하는 개발자가 되고 싶습니다😊
+즐겁게 코딩하는 개발자가 되고 싶습니다😊
 <br><br>
 ### :computer: Tech Stack :computer:
 ![HTML5](https://img.shields.io/badge/Html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
@@ -16,8 +16,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimwonny8)](https://github.com/kimwonny8/github-readme-stats)
 
-------------
 
-![](./profile-3d-contrib/profile-night-green.svg)
 
 </div>
